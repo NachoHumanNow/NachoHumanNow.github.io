@@ -1,0 +1,4 @@
+ABIs: arm64-v8a, armeabi-v7a, armeabi
+CPU Cores: 8
+CPU Bit: 64-Bit
+CPU Model: MT6762V/WA
